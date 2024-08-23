@@ -54,6 +54,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Explanation Video
 
+https://youtu.be/GJuwvpS2dqc
 
 ## Live Link
 
